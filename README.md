@@ -3,17 +3,17 @@ Standalone terminal app for ![friend-finder website](https://github.com/damanraa
 
 Features:
 
-*login
+* login
 
-*Signup
+* Signup
 
-*Create Text-only post
+* Create Text-only post
 
-*Add a friend
+* Add a friend
 
-*See posts(text only)
+* See posts(text only)
 
-*See friends
+* See friends
 
-*View friend suggestions
+* View friend suggestions
 
