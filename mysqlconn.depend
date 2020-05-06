@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1543136278 source:f:\books\daman\jiit\ds sem3 projeect\mysqlconn\main.cpp
+	<iostream>
+	<winsock.h>
+	<mysql.h>
+	"functions.h"
+
+1540897373 f:\books\daman\jiit\ds sem3 projeect\mysqlconn\signup.cpp
+	<iostream>
+	<winsock.h>
+	<mysql/mysql.h>
+	<string>
+
+1540911456 source:f:\books\daman\jiit\ds sem3 projeect\mysqlconn\signup.cpp
+	<iostream>
+	<winsock.h>
+	<mysql/mysql.h>
+	<string>
+
+1541134443 f:\books\daman\jiit\ds sem3 projeect\mysqlconn\functions.h
+
+1541352839 source:f:\books\daman\jiit\ds sem3 projeect\mysqlconn\signin.cpp
+	<iostream>
+	<winsock.h>
+	<mysql.h>
+	<string>
+
+1499916332 c:\program files (x86)\mysql\mysql connector c 6.1\include\mysql.h
+	<sys/types.h>
+	<windows.h>
+	<winsock2.h>
+	"mysql_version.h"
+	"mysql_com.h"
+	"mysql_time.h"
+	"my_list.h"
+	"mysql/client_plugin.h"
+	"typelib.h"
+	"my_alloc.h"
+
+1499933294 c:\program files (x86)\mysql\mysql connector c 6.1\include\mysql_version.h
+	<custom_conf.h>
+
+1499916332 c:\program files (x86)\mysql\mysql connector c 6.1\include\mysql_com.h
+	"binary_log_types.h"
+	"my_command.h"
+
+1499916332 c:\program files (x86)\mysql\mysql connector c 6.1\include\binary_log_types.h
+
+1499916332 c:\program files (x86)\mysql\mysql connector c 6.1\include\my_command.h
+
+1499916332 c:\program files (x86)\mysql\mysql connector c 6.1\include\mysql_time.h
+
+1499916332 c:\program files (x86)\mysql\mysql connector c 6.1\include\my_list.h
+
+1499916332 c:\program files (x86)\mysql\mysql connector c 6.1\include\mysql\client_plugin.h
+	<stdarg.h>
+	<stdlib.h>
+	"plugin_auth_common.h"
+
+1499916332 c:\program files (x86)\mysql\mysql connector c 6.1\include\mysql\plugin_auth_common.h
+	<windows.h>
+
+1499916332 c:\program files (x86)\mysql\mysql connector c 6.1\include\typelib.h
+	"my_alloc.h"
+
+1499916332 c:\program files (x86)\mysql\mysql connector c 6.1\include\my_alloc.h
+	"mysql/psi/psi_memory.h"
+
+1499916332 c:\program files (x86)\mysql\mysql connector c 6.1\include\mysql\psi\psi_memory.h
+	"psi_base.h"
+
+1499916332 c:\program files (x86)\mysql\mysql connector c 6.1\include\mysql\psi\psi_base.h
+
+1543136531 source:f:\books\daman\jiit\ds sem3 projeect\mysqlconn\functions.cpp
+	<iostream>
+	<winsock.h>
+	<mysql.h>
+	<string>
+	<queue>
+	<unordered_set>
+
